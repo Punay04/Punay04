@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Punay Kukreja</h1>
-<h3 align="center">Developer | Exploring AI, DevOps & Web3 | B.Tech CSE Student @ MAIT</h3>
+<h3 align="center">Developer | Exploring AI, DevOps & Web3 | Surfer</h3>
 
 ---
 
